@@ -134,7 +134,7 @@
             "maintainer_name" : "kardebayan",
             "frame" : null,
             "active" : true
-        }
+        },
 	{
 	    "codename" : "hotdog",
 	    "codename_alt" : "OnePlus7TPro",
@@ -143,7 +143,7 @@
 	    "maintainer_name" : "cyberknight777",
 	    "frame" : null,
 	    "active" : true
-	}
+	},
 	{
 	    "codename" : "hotdogg",
 	    "codename_alt" : "OnePlus7TProNR",
