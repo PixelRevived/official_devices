@@ -1,9 +1,8 @@
 # Clean flash:
-- Flash recovery (link is above) or OFox recovery recommended too
-- Download ROM from the link above
+- Flash boot image (recovery) or OrangeFox recovery
 - Reboot to recovery
-- Flash MIUI 13.0.3 firm for your region (GLOBAL recommended)
-- Flash ROM zip
+- Flash MIUI 13.0.3 Global Stable Firmware
+- Sideload ROM zip
 - Format data
 - Reboot and voila!
 
