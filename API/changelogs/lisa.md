@@ -1,6 +1,6 @@
 # 1-May-2022
 - Updated blobs from MIUI 13.0.4 Global Release
-- Switched to Pixel Power (libperfmgr)
+- Switched to Pixel Power HAL (libperfmgr)
 - Fixed all camera and video recording related issues
 - QR code scanner and gpay should be fine too now
 - Fixed ANXCamera crash
