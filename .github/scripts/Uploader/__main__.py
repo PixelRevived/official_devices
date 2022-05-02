@@ -66,8 +66,8 @@ for tag in new_tags:
 
     os.system("sudo apt install sshpass")
 
-    os.system("sshpass -p " + SF_PASS + " scp /releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/ " + device + "/")
-    os.system("sshpass -p " + SF_PASS + " scp /releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/ " + device + "/recovery/")
+    os.system("sshpass -p " + SF_PASS + " scp /releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "/")
+    os.system("sshpass -p " + SF_PASS + " scp /releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "/recovery/")
 
     os.system("cp " + cur_dir + "/releases/*.json " + cur_dir + "/API/updater/" )
     print("Uploaded")
