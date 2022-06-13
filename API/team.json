@@ -199,6 +199,14 @@
             "XDA": "https://forum.xda-developers.com/m/ano0.10677975/",
             "role": "Ex-RMX1941 Maintainer",
             "tagline": "How does that even work?"
-	}
+	},
+	{
+	    "name" : "Mia Ryujin",
+            "github": "Seraphine3",
+            "telegram": "AISeraphine3_3",
+            "XDA": "https://forum.xda-developers.com/m/seraphine3_3.12102213/",
+            "role": "starlte,star2lte,crownlte Maintainer",
+            "tagline": "Shine Above The Stars✨"
+	}	
     ]
 }
