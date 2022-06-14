@@ -1,3 +1,21 @@
+# 13-June-2022
+- Drop QCOM thermal engine components
+- Drop updatable GPU drivers
+- Fix UDFPS not registering
+- Implement UDFPS handler
+- Import dolby codecs
+- Move to common Xiaomi fingerprint HIDL
+- parts: Handle more errors for dirac
+- parts: Use directBootAware
+- Pull sepolicy from SM8250
+- Ship Lawnchair launcher
+- Ship VantomKernel v4.14.282
+- Switch to EROFS for dynamic partitions
+- Support F2FS compression and garbage collector
+- Update blobs from LA.QSSI.12.0.r1-07100-qssi.0
+- Update display color compositions
+- Update system WFD blobs from 07100
+
 # 07-May-2022
 - May security patch level
 - Introducing built-in ANXCamera
