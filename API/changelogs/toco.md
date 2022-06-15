@@ -1,3 +1,14 @@
+# 15-June-2022
+- Address QCOM WFD denials
+- Don't enable iostats
+- Don't tune sde partition on boot
+- media: Finetune performance xml
+- Override odm_dlkm and vendor_dlkm props
+- parts: Add dynamic thermal profile implementation
+- Switch SchedTune to UClamp
+- Uprev radio config into 1.2
+- Use coral tuning for columbus feature
+
 # 13-June-2022
 - Drop QCOM thermal engine components
 - Drop updatable GPU drivers
@@ -8,7 +19,6 @@
 - parts: Handle more errors for dirac
 - parts: Use directBootAware
 - Pull sepolicy from SM8250
-- Ship Lawnchair launcher
 - Ship VantomKernel v4.14.282
 - Switch to EROFS for dynamic partitions
 - Support F2FS compression and garbage collector
