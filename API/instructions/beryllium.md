@@ -1,6 +1,5 @@
-## Flashing Instructions
-
 ### Clean flash - Encrypted (coming from a different ROM):
+
 - Download ROM from the link above
 - Download Magisk (optionally)
 - Reboot to recommended recovery
@@ -12,6 +11,7 @@
 - To get root access, reboot to recovery after ROM setup and flash magisk.
 
 ### Clean flash - Decrypted:
+
 - Download ROM from the link above
 - Download Magisk (optionally)
 - Download DFE
@@ -24,5 +24,6 @@
 - To get root access, reboot to recovery after ROM setup and flash magisk.
 
 ### Updating to a newer build (dirty flash):
+
 - Wipe cache, dalvik and system_ext
 - Flash ROM zip, DFE (if decrypted) and magisk (optional) and reboot
