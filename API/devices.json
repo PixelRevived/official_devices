@@ -55,11 +55,11 @@
             "active": true
         },
         {
-            "codename": "juice",
-            "codename_alt": "lime/pomelo/lemon/citrus",
+            "codename": "chime",
+            "codename_alt": "citrus/lemon",
             "vendor": "Xiaomi",
-            "model": "Redmi 9T, Redmi Note 9 4G, Redmi 9 Power, Poco M3",
-            "maintainer_name": "RayapKun",
+            "model": "POCO M3/Redmi 9T",
+            "maintainer_name": "rktdnt",
             "frame": null,
             "active": true
         },

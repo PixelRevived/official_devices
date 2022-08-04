@@ -11,12 +11,12 @@
     "maintainers": [
         {
             "main_maintainer": false,
-            "github_username": "RayapKun",
-            "name": "RayapKun"
+            "github_username": "rktdnt",
+            "name": "rktdnt."
         }
     ],
     "donate_url": "",
-    "website_url": "https://pixelos.vercel.app/",
+    "website_url": "https://pixelos.net/",
     "news_url": "https://t.me/PixelOSOfficial",
     "forum_url": "https://forum.xda-developers.com/t/rom-android-12-1-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-pixelos-official.4426729/"
 }

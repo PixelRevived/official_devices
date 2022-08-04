@@ -1,16 +1,16 @@
 {
     "maintainer": [
         {
-            "display_name": "RayapKun",
-            "telegram": "https://t.me/whyyraku",
-            "github": "https://github.com/RayapKun"
+            "display_name": "rktdnt.",
+            "telegram": "https://t.me/rktdnt",
+            "github": "https://github.com/rktdnt"
         }
     ],
     "updater": true,
     "beta": false,
     "version": "twelve",
     "release": "monthly",
-    "device_display_name": "Poco M3 / Redmi 9T",
+    "device_display_name": "POCO M3 / Redmi 9T",
     "device_display_codename": "juice",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/juice/",
     "last_updated": "9 July 2022",
