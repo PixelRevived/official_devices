@@ -6,8 +6,6 @@
 - Format data
 - Reboot to system & Enjoy
 
-
-
 # Dirty Flash
 - Reboot to Recovery
 - Flash PixelOS
