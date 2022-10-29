@@ -7,8 +7,11 @@
         }
     ],
     "updater": true,
-    "beta": false,
+    "beta": true,
     "version": "thirteen",
+    "available_versions": [
+        "thirteen"
+    ],
     "release": "monthly",
     "device_display_name": "Micromax IN Note 1 / IN1",
     "device_display_codename": "yogurt",
