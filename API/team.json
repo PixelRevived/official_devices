@@ -288,5 +288,13 @@
             "role": "Ex-RMX1941 Maintainer",
             "tagline": "How does that even work?"
         }
+        {
+            "name": "NotZeetaa",
+            "github": "NotZeetaa",
+            "telegram": "NotZeetaa",
+            "XDA": "https://forum.xda-developers.com/m/zeetaa.10325641/",
+            "role": "Alioth Maintainer",
+            "tagline": "I love cats and dogs!"
+        },
     ]
 }
