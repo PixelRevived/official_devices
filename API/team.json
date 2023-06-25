@@ -17,12 +17,12 @@
             "tagline": null
         },
         {
-            "name": "Jasutin",
-            "github": "Kitsunejasutin",
-            "telegram": "tokatsu",
-            "XDA": "https://forum.xda-developers.com/m/csapawn.9239199/",
-            "role": "Core-Member",
-            "tagline": "Nyahalo! Doktah here."
+            "name": "Sugakesshaa",
+            "github": "bheatleyyy",
+            "telegram": "Megalodonzs",
+            "XDA": "https://forum.xda-developers.com/m/sugacrx.11383885/",
+            "role": "Core-member; martini, porsche Maintainer",
+            "tagline": "Make every moment cherish :)"
         },
         {
             "name": "Ashwin DS",
@@ -45,7 +45,7 @@
             "github": "danyscape",
             "telegram": "ddvnish",
             "XDA": null,
-            "role": "Designer",
+            "role": "Designer; ginkgo Maintainer",
             "tagline": "Dream is an illusion."
         },
         {
@@ -79,6 +79,14 @@
             "XDA": null,
             "role": "Pixelish Founder",
             "tagline": null
+        },
+        {
+            "name": "Jasutin",
+            "github": "Kitsunejasutin",
+            "telegram": "tokatsu",
+            "XDA": "https://forum.xda-developers.com/m/csapawn.9239199/",
+            "role": "Ex-Core Member",
+            "tagline": "Nyahalo! Doktah here."
         },
         {
             "name": "Vladislav",
@@ -125,23 +133,15 @@
             "github": "cristianvaz",
             "telegram": "cristianvaz",
             "XDA": "https://forum.xda-developers.com/m/cristianvaz.11729943/",
-            "role": "bitra Maintainer",
+            "role": "Ex-bitra Maintainer",
             "tagline": null
-        },
-        {
-            "name": "Sugakesshaa",
-            "github": "bheatleyyy",
-            "telegram": "Megalodonzs",
-            "XDA": "https://forum.xda-developers.com/m/sugacrx.11383885/",
-            "role": "martini, Ex-lisa Maintainer",
-            "tagline": "Till we meet again :)"
         },
         {
             "name": "Hridaya",
             "github": "kawaaii",
             "telegram": "hridaya01",
             "XDA": "https://forum.xda-developers.com/m/kawaaii.12021051//",
-            "role": "gauguin Maintainer",
+            "role": "Ex-gauguin Maintainer",
             "tagline": "Live in the moment!"
         },
         {
@@ -245,7 +245,7 @@
             "github": "DqrKn3Zz",
             "telegram": "ObviouslyImNotDqrKn3Zz",
             "XDA": "https://forum.xda-developers.com/m/dqrkn3zz.6877568/",
-            "role": "ginkgo Maintainer",
+            "role": "Ex-ginkgo Maintainer",
             "tagline": "Inactivity serves no purpose whatsoever"
         },
         {
@@ -253,8 +253,8 @@
             "github": "Jubscleisson",
             "telegram": "Jubscleisson",
             "XDA": "https://forum.xda-developers.com/m/jubscleisson.10485153/",
-            "role": "Samsung Galaxy S10 & Note10 Series Maintainer",
-            "tagline": "Stay calm and be yourself!!"
+            "role": "Samsung Galaxy 10 Series and F62/M62 Maintainer",
+            "tagline": "Stay calm and be yourself!"
         },
         {
             "name": "Don Sanchez",

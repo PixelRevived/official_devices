@@ -142,7 +142,7 @@
             "model": "Realme GT Neo 2",
             "maintainer_name": "cristian",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "RMX2020",
@@ -196,7 +196,7 @@
             "model": "Redmi K40S/POCO F4",
             "maintainer_name": "masarou",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "mojito",
@@ -259,7 +259,7 @@
             "model": "Redmi Note 9 Pro 5G/Mi 10i 5G/ Mi 10T Lite",
             "maintainer_name": "Hridaya",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "miatoll",
@@ -267,6 +267,15 @@
             "vendor": "Xiaomi",
             "model": "Redmi Note 9S/Pro/Pro Max & Poco M2 Pro",
             "maintainer_name": "PaperBoy",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "f62",
+            "codename_alt": "f62/m62",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy F62/M62",
+            "maintainer_name": "Fellipe Lima",
             "frame": null,
             "active": true
         },
