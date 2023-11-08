@@ -8,14 +8,15 @@
     ],
     "updater": true,
     "beta": true,
-    "version": "thirteen",
+    "version": "fourteen",
     "available_versions": [
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
     "device_display_name": "Micromax IN Note 1 / IN1",
     "device_display_codename": "yogurt",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/yogurt/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/yogurt/",
     "last_updated": "13 October 2023",
     "private_download_tag": "yogurt_202310071204",
     "active": true,
