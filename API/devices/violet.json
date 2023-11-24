@@ -12,6 +12,7 @@
     "available_versions": [
         "twelve",
         "thirteen"
+	"fourteen"
     ],
     "release": "monthly",
     "device_display_name": "Redmi Note 7 Pro",
