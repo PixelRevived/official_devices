@@ -11,7 +11,7 @@
     "version": "thirteen",
     "available_versions": [
         "twelve",
-        "thirteen"
+        "thirteen",
 	"fourteen"
     ],
     "release": "monthly",
