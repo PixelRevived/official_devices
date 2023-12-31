@@ -1,24 +1,13 @@
-# Clean Flash:
-- Make sure to put your ROM, Magisk and kernel zips in external sdcard 
-- Flash recovery.img (Recommended recovery!) via adb on PC 
-- Reboot to recovery (Tianma panel devices can only navigate recovery with volume buttons and power)
-- Apply Update
-- Choose from sdcard1
-- Look for where you placed your zips
-- Flash ROM (magisk and custom kernels are optional)
-- Choose factory reset
-- Choose format data/factory reset
-- Reboot and voila!
+# Flashing via PixelOS Recovery:
+- Download ROM and Firmware zips from PixelOS website.
+- Boot to PixelOS Recovery.
+- Go to Apply Update > Apply Update via ADB/SDcard/OTG
+- Flash ROM zip then Firmware via SDcard/OTG or via adb-PC `adb sideload file.zip`
+- (Skip if dirty flashing) Go Back and Select Factory Reset > Format Data
+- Go Back and Reboot to System.
 
-# Clean Flash via TWRP:
-- Clean flash with @dereference 's TWRP specifically made for FBEv2-based roms
+# Flashing via TWRP FBE-V2:
 - Flash ROM
 - Flash firmware/magisk (optional)
-- Format data
-- Reboot and voila!
-
-# Dirty Flash:
-- Download ROM zip via OTA Updater or directly from SF
-- Place zip in sdcard
-- Flash rom and magisk zip (optional) via PixelOS recovery
-- Reboot and voila!
+- (Skip if dirty flashing) Format data. This will erase all of your data.
+- Reboot to System.
